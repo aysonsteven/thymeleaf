@@ -1,10 +1,10 @@
-package com.thyme;
+package com.example.vuejs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringthymeApplicationTests {
+class MessageAppApplicationTests {
 
 	@Test
 	void contextLoads() {
